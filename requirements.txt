@@ -1,0 +1,23 @@
+# Core dependencies
+MetaTrader5==5.0.45
+pandas==2.2.0
+numpy==1.26.0
+
+# Technical indicators
+TA-Lib==0.4.28
+pandas-ta==0.3.14b
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1
+python-dotenv==1.0.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# Logging and monitoring
+colorlog==6.8.0
+tabulate==0.9.0
+
+# Optional: Backtesting
+backtrader==1.9.78.123
